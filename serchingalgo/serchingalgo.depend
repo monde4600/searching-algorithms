@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1667246670 source:e:\embided_deblom\nti\c_programming\coding\serchingalgo\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+
